@@ -1,1 +1,13 @@
 
+일정
+
+1.	Github 환경구축...........................(1주) – 박상재, 서지승, 권처우
+2.	Vivado 버전업 및 subsystem ID, timestamp...(1주) – 박상재
+3.	XDMA vs NORTHWEST performance test.......(4주) – 박상재, 서지승
+	-> Software 와 협업이 필요.
+4.	TX7316 (TX) Control......................(2주) – 박상재, 서지승, 권처우
+5.	AFE58JD18 (RX) Control...................(2주) – 박상재, 서지승, 권처우
+6.	KCU105 + TX/RX Kit 동작구현...............(4주) – 박상재, 서지승, 권처우
+7.	Beamforming Modeling.....................(2주) – 박상재, 서지승, 권처우
+8.	Hardware Beamforming RTL.................(4주) – 박상재, 서지승, 권처우
+9.	Hardware Beamforming FPGA검증............(4주) – 박상재, 서지승, 권처우
